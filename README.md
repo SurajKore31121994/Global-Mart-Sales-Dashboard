@@ -1,4 +1,4 @@
-**1.Global-Mart-Sales-Dashboard**
+**1. Global-Mart-Sales-Dashboard**
 
 Sales Analytics Dashboard
 
