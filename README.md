@@ -75,4 +75,4 @@ The revenue trend highlights a seasonal dip in Q2 — allowing businesses to pre
 
 **8. Screenshot**
 
-Dashboard Preview - (https://github.com/SurajKore31121994/Global-Mart-Sales-Dashboard/blob/main/Snapshot_Global%20Mart%20Sales%20Dashboard.PNG)
+[Dashboard Preview] (https://github.com/SurajKore31121994/Global-Mart-Sales-Dashboard/blob/main/Snapshot_Global%20Mart%20Sales%20Dashboard.PNG)
