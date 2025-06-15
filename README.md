@@ -7,33 +7,49 @@ Sales Analytics Dashboard
 This project showcases a fully interactive sales dashboard designed to:
 
 Track key sales metrics (e.g. revenue, units sold, profit)
+
 Analyze product and geographic performance
+
 Identify trends and anomalies (e.g. dips in sales)
+
 Slice data by time periods, categories, and regions for insightful decision-making
 
 **3. Features**
 
 KPI Cards: Total Sales, Units Sold, Profit, Profit Margin, Growth %
+
 Time Series Chart: Monthly trends for sales and profit
+
 Bar/Column Charts: Breakdown by Product Category and Region
+
 Geographic Map: Sales distribution across locations
+
 Dynamic Slicers: Filter data by year, product, and region
+
 Drill-throughs: Click into charts to explore details (e.g. view transactions driving a KPI)
 
 **4. Tech Stack**
    
 Microsoft Power BI Desktop — Main tool for designing and developing the interactive dashboard
+
 Power Query (ETL) — To extract, transform, and clean the raw data before loading it into the Power BI data model
+
 DAX (Data Analysis Expressions) — To create custom measures, calculations, and key metrics (like total sales, profits, margins, and growth percentages)
+
 Power BI Visuals — Built-in charts and components (bar charts, pie charts, maps, tables, cards) to visualize data
+
 Data Model (Star Schema) — Fact table (Sales) connected to dimension tables (Products, Customers, Geography, Time) to enable efficient and flexible analysis
 
 **5. How It Helps**
 
 This dashboard enables users to:
+
 Monitor monthly sales and profitability trends
+
 Quickly spot underperforming products or regions
+
 Make data-driven decisions to increase sales efficiency
+
 Present clean, interactive insights to stakeholders
 
 
